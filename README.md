@@ -55,9 +55,9 @@ linguagem e saber usá-la é muito importante para criar um README legível e
 bem apresentável! Não sabe usar? Confira algumas dicas abaixo:
 
 
-https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links [ em inglês]
-https://help.smash.gg/en/articles/1987102-customizing-text-with-markdown [ingles]
-https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8 [portugues]
+- [x] [Markdown Sheet Cheat](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#links) [inglês]
+- [x] [Customizing text with markdown](https://help.smash.gg/en/articles/1987102-customizing-text-with-markdown) [ingles]
+- [x] [Como fazer um readm bonitão? (Medium)](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8) [portugues]
 
 ---
 
