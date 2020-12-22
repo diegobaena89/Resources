@@ -43,6 +43,9 @@ readme e deixá-lo mais profissional! :)
 
 - [x] [Badges README](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 - [x] [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
+- [x] [OMG Badhes](https://github.com/kautukkundan/omg-badges)
+- [x] [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
 
@@ -153,4 +156,6 @@ Cursos gratuitos e com certificados para aprimorar suas dev skills!
 ## Outros Recursos
 
 - [x] [Awesome Github Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [x] [Gerador de contador de visitar para o Github](https://hits.seeyoufarm.com/#badge)
+
 
