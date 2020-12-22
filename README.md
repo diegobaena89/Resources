@@ -125,6 +125,7 @@ Abaixo estão listados 10 repositórios que todo dev precisa conhecer.
 - [x] [Bonieky Lacerda](https://www.youtube.com/user/bonieky)
 - [x] [doctor Code](https://www.youtube.com/channel/UCCkjYARLbR1ws4_lMuvJ2vg)
 - [x] [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+- [x] [Curso Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
 ---
 
@@ -145,3 +146,11 @@ Cursos gratuitos e com certificados para aprimorar suas dev skills!
 |[FGV Online](https://www5.fgv.br/fgvonline/Cursos/Gratuitos/?goback=%2Egde_1876153_member_208379733) | :brazil:  |
 |[Fundação Bradesco](https://www.ev.org.br/)  | :brazil:  |
 |[School of Net](https://www.schoolofnet.com/cursos/gratuitos)  |   :brazil:  |
+
+---
+
+
+## Outros Recursos
+
+- [x] [Awesome Github Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
