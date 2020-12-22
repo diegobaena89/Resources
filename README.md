@@ -109,7 +109,7 @@ Abaixo estão listados 10 repositórios que todo dev precisa conhecer.
 - [x] [Emoji Copy](https://www.emojicopy.com/)
 - [x] [Story Set](https://storyset.com/)
 
---
+---
 
 
 ## Youtube :play_or_pause_button:
