@@ -12,7 +12,7 @@ Pensando nisso, criei essa coletânia de recursos que serão atualizados semanal
 * Vagas para Dev Júnior
 * Exemplos de projetos e outras dicas
 
-Todo material utilizado aqui é gratuito! Faça bom proveito! 💻
+Todo material utilizado aqui é gratuito! Faça bom proveito! 💻 :octocat:
 
 ---
 
@@ -103,7 +103,7 @@ Abaixo estão listados 10 repositórios que todo dev precisa conhecer.
 
 ## Gifs for Github :smile:
 
-- [x] [Emoki Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
+- [x] [Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet)
 - [x] [Gitmoji](https://gitmoji.dev/)
 - [x] [Git Emoji](https://getemoji.com/)
 - [x] [Emoji Copy](https://www.emojicopy.com/)
@@ -111,7 +111,28 @@ Abaixo estão listados 10 repositórios que todo dev precisa conhecer.
 
 --
 
+
+## Youtube :play_or_pause_button:
+
+- [x] [Filipe Deschamps](https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw)
+- [x] [Curso em vídeo](https://www.youtube.com/user/cursosemvideo)
+- [x] [Vida de Programador](https://www.youtube.com/user/ProgramadorREAL)
+- [x] [Dev Media](https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ)
+- [x] [Fabio Akita](https://www.youtube.com/user/AkitaOnRails)
+- [x] [Código Fonte TV](https://www.youtube.com/user/codigofontetv)
+- [x] [Lucas Montano](https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg)
+- [x] [codeSTACKr](https://www.youtube.com/channel/UCDCHcqyeQgJ-jVSd6VJkbCw)
+- [x] [Bonieky Lacerda](https://www.youtube.com/user/bonieky)
+- [x] [doctor Code](https://www.youtube.com/channel/UCCkjYARLbR1ws4_lMuvJ2vg)
+- [x] [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+
+---
+
+
 ## Cursos Gratuitos
+
+Cursos gratuitos e com certificados para aprimorar suas dev skills!
+
 
 |   Link   |    Idioma    |
 |----------|--------------|
