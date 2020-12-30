@@ -34,6 +34,16 @@ problemas e exercitar seus conhecimentos!
 
 ---
 
+## TUTORIAIS INTERATIVOS :space_invader:
+
+- [x] [Github Learning Lab](https://lab.github.com/)
+- [x] [Grasshopper](https://grasshopper.app/) (Javascript)
+- [x] [Solo Learn](https://www.sololearn.com/) (html, css e JS)
+- [x] [Mimo](https://getmimo.com/) (html, css e JS)
+- [x] [Scrimba](https://scrimba.com/) (html, css e JS)
+- [x] [Learn Javascript](https://learnjavascript.online/) (Javascript)
+
+---
 
 ## BADGES :speech_balloon:
 
@@ -46,9 +56,7 @@ readme e deixá-lo mais profissional! :)
 - [x] [OMG Badhes](https://github.com/kautukkundan/omg-badges)
 - [x] [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
-
 ---
-
 
 ## MARKDOWN :printer: 
 
@@ -86,6 +94,47 @@ também é atualizado constantemente!
 
 ---
 
+## LEITURA :zap:
+
+Artigos em Inglês
+
+- [x] [Bem](http://getbem.com/) - CSS
+- [x] [Css Reference](https://cssreference.io/) - CSS
+- [x] [Grid by example](https://gridbyexample.com/) - CSS
+- [x] [Css Animation](https://cssanimation.rocks/) - CSS
+- [x] [Frontend Roadmap](https://roadmap.sh/frontend) - Geral
+- [x] [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Javascript
+- [x] [Elloquent Javascript](https://eloquentjavascript.net/) - Javascript
+- [x] [Learning JS Design Pattern](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Javascript
+
+---
+
+## COLORS :art:
+
+- [x] [Coolors](https://coolors.co/)
+- [x] [Color Space Pallete](https://mycolor.space/)
+- [x] [Color Space Gradient](https://mycolor.space/gradient)
+- [x] [CSS Gradient](https://cssgradient.io/)
+- [x] [Sip](https://sipapp.io/)
+- [x] [Color Mind](http://colormind.io/)
+- [x] [Colorbox](https://colorbox.io/)
+
+---
+
+UTILITÁRIOS 🤞
+
+- [x] [Normalize.css](https://necolas.github.io/normalize.css/) - CSS
+- [x] [Reset.css](https://meyerweb.com/eric/tools/css/reset/) - CSS
+- [x] [Cubic Bezier](https://cubic-bezier.com/#.17,.67,.83,.67) - CSS
+- [x] [Easing Function](https://easings.net/) - CSS
+- [x] [CSS Triangle Generator](http://apps.eky.hk/css-triangle-generator/) - CSS
+- [x] [Clippy](https://bennettfeely.com/clippy/)
+- [x] [Keyframes](https://keyframes.app/) - CSS
+- [x] [Fancy Border Radius](https://9elements.github.io/fancy-border-radius/) - CSS
+- [x] [Brumm Shadows](https://brumm.af/shadows) - CSS
+
+
+---
 
 ## PROJETOS :pencil2:
 
@@ -157,5 +206,10 @@ Cursos gratuitos e com certificados para aprimorar suas dev skills!
 
 - [x] [Awesome Github Profiles](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [x] [Gerador de contador de visitar para o Github](https://hits.seeyoufarm.com/#badge)
+- [x] [HTML Cheat](https://htmlcheatsheet.com/)
+- [x] [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+- [x] [CSS Reference](https://tympanus.net/codrops/css_reference/)
+- [x] [CSS Grid Reference](https://grid.malven.co/)
+- [x] [CSS Flexbox Reference](https://flexbox.malven.co/)
 
 
