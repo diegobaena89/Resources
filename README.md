@@ -55,6 +55,7 @@ readme e deixá-lo mais profissional! :)
 - [x] [Markdown Badges](https://github.com/Ileriayo/markdown-badges)
 - [x] [OMG Badhes](https://github.com/kautukkundan/omg-badges)
 - [x] [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [x] [Badgen - Fast Badge Generator](https://badgen.net/) 
 
 ---
 
