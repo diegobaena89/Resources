@@ -72,6 +72,7 @@ bem apresentável! Não sabe usar? Confira algumas dicas abaixo:
 - [x] [Como fazer um readm bonitão? (Medium)](https://medium.com/@raullesteves/github-como-fazer-um-readme-md-bonit%C3%A3o-c85c8f154f8) [portugues]
 - [x] [Como adicionar Named Anchor](https://dev.to/stephencweiss/named-anchors-markdown-2hm5) [inglês]
 - [x] [Sintaxe do Markdown](https://www.markdownguide.org/basic-syntax/) [Melhor site - inglês]
+- [x] [Github Profile Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/) - Gerador de Readme para status
 
 ---
 
